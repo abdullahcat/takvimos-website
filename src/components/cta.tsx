@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function CTA() {
     return (<section>
         <div className="mx-auto max-w-screen-2xl bg-blue-600     ">
@@ -10,9 +12,9 @@ function CTA() {
                         Randevu sistemi ile işlerinizi düzenlemek ve daha fazla verimlilik sağlamak için hemen kayıt olun. İşletmenizi daha iyi yönetmeye başlamak için buradayız!
                     </p>
 
-                    <a href="/sales" className=" py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md w-40 bg-blue-100 border border-transparent font-semibold text-blue-500 hover:text-white hover:bg-black focus:outline-none focus:ring-2 ring-offset-white focus:ring-blue-500 focus:ring-offset-2 transition-all text-sm  ">
+                    <Link href="/sales" className=" py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md w-40 bg-blue-100 border border-transparent font-semibold text-blue-500 hover:text-white hover:bg-black focus:outline-none focus:ring-2 ring-offset-white focus:ring-blue-500 focus:ring-offset-2 transition-all text-sm  ">
                         Hemen Başvur
-                    </a>
+                    </Link>
                 </div>
 
 

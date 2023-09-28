@@ -10,9 +10,9 @@ function Navbar() {
             <div
                 className="mx-auto flex h-16 items-center gap-8 px-4 "
             >
-                <a className="block text-blue-500 font-bold text-2xl" href="/">
+                <Link className="block text-blue-500 font-bold text-2xl" href="/">
                     <span className='font-light text-black'>takvim</span>OS
-                </a>
+                </Link>
 
                 <div className="flex flex-1 items-center justify-end ">
                     <div className="flex items-center gap-2">
