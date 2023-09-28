@@ -1,4 +1,5 @@
 import Head from "next/head";
+/* eslint-disable @next/next/no-img-element */
 
 function Servisler() {
     return (

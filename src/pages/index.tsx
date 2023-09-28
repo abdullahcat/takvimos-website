@@ -6,6 +6,7 @@ import Features from '@/components/features';
 import GooglePoweredFeature from '@/components/googlepoweredfeature';
 import Reviews from '@/components/reviews';
 import Head from 'next/head';
+/* eslint-disable @next/next/no-img-element */
 
 const HomePage: React.FC = () => {
   return (

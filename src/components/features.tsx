@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+
 function Features() {
     return (
         <section className=" min-h-screen flex flex-col space-y-4  md:space-y-8">

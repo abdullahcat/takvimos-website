@@ -1,4 +1,5 @@
 import Head from "next/head";
+/* eslint-disable @next/next/no-img-element */
 
 function Hakkimizda() {
     return (
@@ -28,7 +29,7 @@ function Hakkimizda() {
                             </h2>
                             <article className="space-y-4 text-gray-600">
                                 <p>
-                                    TakvimOS, randevu yönetimi konusundaki ihtiyaçları karşılamak ve işletmelerin daha verimli çalışmalarına yardımcı olmak için tasarlanmış bir platformdur. TakvimOS'un amacı, işletmelerin ve profesyonellerin işlerini daha iyi yönetmelerine, müşterileriyle daha etkili bir şekilde iletişim kurmalarına ve büyümelerine katkıda bulunmaktır.
+                                    TakvimOS, randevu yönetimi konusundaki ihtiyaçları karşılamak ve işletmelerin daha verimli çalışmalarına yardımcı olmak için tasarlanmış bir platformdur. TakvimOS&apos;un amacı, işletmelerin ve profesyonellerin işlerini daha iyi yönetmelerine, müşterileriyle daha etkili bir şekilde iletişim kurmalarına ve büyümelerine katkıda bulunmaktır.
 
 
                                 </p>
@@ -43,7 +44,7 @@ function Hakkimizda() {
 
                                 </p>
                                 <p>
-                                    TakvimOS ile işinizi daha iyi yönetin, randevularınızı planlayın ve müşterilerinizle daha yakın bir ilişki kurun. Hedefimiz, işletmelerin ve profesyonellerin başarılı olmalarına yardımcı olmaktır. TakvimOS'a hoş geldiniz
+                                    TakvimOS ile işinizi daha iyi yönetin, randevularınızı planlayın ve müşterilerinizle daha yakın bir ilişki kurun. Hedefimiz, işletmelerin ve profesyonellerin başarılı olmalarına yardımcı olmaktır. TakvimOS&apos;a hoş geldiniz!
 
                                 </p>
                             </article>

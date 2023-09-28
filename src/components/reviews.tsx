@@ -1,3 +1,6 @@
+/* eslint-disable @next/next/no-img-element */
+
+
 function Reviews() {
     return (
         <section className="bg-white">
