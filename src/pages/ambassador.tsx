@@ -26,7 +26,7 @@ function Temsilcilik() {
                         <h2 className="text-3xl">Sat ve Kazan</h2>
 
                         <p className="mt-4  ">
-                            Siz değerli kullanıcılarımıza harika bir fırsat sunuyoruz! TakvimOS Ambassador Programı, işletmeler ve profesyoneller için randevu yönetimindeki en iyi çözümü tanıtarak ve başkalarına önererek %25'e kadar komisyon kazanmanıza olanak tanır.
+                            Siz değerli kullanıcılarımıza harika bir fırsat sunuyoruz! TakvimOS Ambassador Programı, işletmeler ve profesyoneller için randevu yönetimindeki en iyi çözümü tanıtarak ve başkalarına önererek %25&apos;e kadar komisyon kazanmanıza olanak tanır.
 
                         </p>
                         <Link href="/mailto:ambassador@takvimos.com" className=" py-3 px-4 inline-flex justify-center items-center gap-2 rounded-md w-40 bg-blue-100 border border-transparent font-semibold text-blue-500 hover:text-white hover:bg-black focus:outline-none focus:ring-2 ring-offset-white focus:ring-blue-500 focus:ring-offset-2 transition-all text-sm  ">

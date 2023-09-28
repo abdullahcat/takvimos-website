@@ -19,7 +19,7 @@ function Features() {
                         <img src="/flutter-firebase.png" className="h-32" alt="flutter-firebase" />
 
                         <h3 className="text-3xl      ">Google İle Daha İleri Gidin</h3>
-                        <p  >Sistemimiz, Google'ın servislerini kullanarak size daha hızlı ve güvenilir bir hizmet sunar. Bu da size ekstra güvenlik ve performans sağlar.</p>
+                        <p  >Sistemimiz, Google&apos;ın servislerini kullanarak size daha hızlı ve güvenilir bir hizmet sunar. Bu da size ekstra güvenlik ve performans sağlar.</p>
 
                     </div>
                 </div>
