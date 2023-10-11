@@ -13,7 +13,7 @@ function Footer() {
                 />
             </div>
 
-            <div className="px-4 py-16 sm:px-6 lg:col-span-3 lg:px-8">
+            <div className="px-4 border-t border-gray-200 py-16 sm:px-6 lg:col-span-3 lg:px-8">
                 <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
                     <div>
                         <p>

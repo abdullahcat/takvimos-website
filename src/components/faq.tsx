@@ -116,7 +116,7 @@ function FAQ() {
                 </summary>
 
                 <p className="mt-4 px-4 leading-relaxed text-gray-700">
-                    Evet, isterseniz randevu takviminizi herkese açık hale getirebilirsiniz. Bu, randevularınızı daha görünür hale getirir ve müşterilerinizin sizinle iletişime geçmeden önce uygun saatleri görmelerine yardımcı olur.
+                    Yakında gelecek güncelleme ile birlikte isterseniz randevu takviminizi herkese açık hale getirebilirsiniz. Bu, randevularınızı daha görünür hale getirir ve müşterilerinizin sizinle iletişime geçmeden önce uygun saatleri görmelerine yardımcı olur.
 
 
 

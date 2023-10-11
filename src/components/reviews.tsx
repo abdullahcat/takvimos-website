@@ -121,7 +121,7 @@ function Reviews() {
                             </div>
 
                             <p className="mt-4 ">
-                                Oto tamircimizin randevu sistemi sayesinde aracımı herhangi bir bekleme olmadan hızlıca tamir edebiliyoruz. İşimizi hızlandırdı!                                </p>
+                                TakvimOS+ randevu sistemi sayesinde müşterilerimizin bekleme sürelerini azalttık ve müşteri memnuniyetimizi artırdık. İş süreçlerimiz hızlandı!</p>
                         </blockquote>
                     </div>
                     <div className="mb-8 sm:break-inside-avoid">
